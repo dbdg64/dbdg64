@@ -2,7 +2,7 @@
 
 Web developer. I build fast, accessible landing pages — with the measurements to prove it.
 
-**Available for work on Fiverr:** [search my gigs](https://www.fiverr.com/dbdg64) · **Portfolio:** [dbdg64.github.io/carpentry-landing-concepts](https://dbdg64.github.io/carpentry-landing-concepts)
+**Available for work on Fiverr:** [ahmedpython_dev](https://www.fiverr.com/sellers/ahmedpython_dev) · **Portfolio:** [dbdg64.github.io/carpentry-landing-concepts](https://dbdg64.github.io/carpentry-landing-concepts)
 
 ---
 
