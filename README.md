@@ -3,5 +3,5 @@
 - AI engineering
 - ML engineering
 ## For contact
-Email: 205974176+dbdg64@users.noreply.github.com
+Email: decodric@gmail.com
 # KISS (Keep It Simple, Stupid)
